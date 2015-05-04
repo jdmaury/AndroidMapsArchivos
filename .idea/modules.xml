@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidMapNoParse.iml" filepath="$PROJECT_DIR$/AndroidMapNoParse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMapsArchivos.iml" filepath="$PROJECT_DIR$/AndroidMapsArchivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
